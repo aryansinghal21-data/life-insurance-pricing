@@ -72,4 +72,4 @@ jupyter notebook notebooks/life_insurance_pricing.ipynb
 
 ## 👤 Author
 **Aryan Singhal** | Aspiring Actuarial Data Analyst
-[LinkedIn](https://www.linkedin.com/in/aryansinghal21/) | [Email](mailto:aryansinghal821@gmail.com)ogo=gmail)](mailto:aryasinghal821@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aryansinghal21/) | [Email](mailto:aryasinghal821@gmail.com)
